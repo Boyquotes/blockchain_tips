@@ -3,6 +3,7 @@
 ### EVM :
 
 - RAINBOWKIT : https://github.com/rainbow-me/rainbowkit/tree/main/examples
+    - REACT : https://github.com/LeoClairet05/wagmi-rainbowkit-react-template
     - NEXT / RAINBOWKIT
         - https://github.com/scaffold-eth/scaffold-eth-2
         - https://github.com/turbo-eth/template-web3-app
