@@ -28,8 +28,12 @@
   - https://github.com/sashadev-sky/Rock-Paper-Scissors-Mint
 
 ### SVM :
+- https://github.com/anza-xyz/wallet-adapter
+
+#### REACT / Phantom :
 - https://github.com/moviendome/solana-faucet
-- 
+- https://github.com/Phantasia-Sports/phantom-mobile-wallet-adapter
+- https://github.com/rust-master/solana-dapp-anchor.git
  
 POLKADOT / SUBSTRATE :
     - https://github.com/substrate-developer-hub/substrate-front-end-template demo : https://substrate-developer-hub.github.io/substrate-front-end-template/
