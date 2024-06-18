@@ -16,4 +16,6 @@
         - https://github.com/whitenois3/rainplate
     - VITE / RAINBOWKIT
        - https://github.com/jcstein/rainbowkit-vite-tailwind-starter
-       - 
+
+- dApp
+  - https://github.com/sashadev-sky/Rock-Paper-Scissors-Mint
