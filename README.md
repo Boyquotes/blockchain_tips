@@ -31,7 +31,7 @@
 - https://github.com/anza-xyz/wallet-adapter
 
 #### REACT / Phantom :
-- https://github.com/meetamjadsaeed/React-Phantom-Wallet-App
+- https://github.com/meetamjadsaeed/React-Phantom-Wallet-App Error and not detect phantom wallet in the list
 - https://github.com/emreyurur/phantom_wallet_connect
 - https://github.com/meetamjadsaeed/React-Phantom-Wallet-Web3
 - https://github.com/AntheChristo/SolanaTokenTransfer/ Error : WalletNotReadyError
