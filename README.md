@@ -11,3 +11,4 @@
     - LAST UPDATE more than 2 year :
     - https://github.com/0xverin/Nextjs-Wagmi-Template last update 2 years, this fork ihave most update : https://github.com/H-Blues/Dapp-Template
     - https://github.com/tanishqsh/nextjs-tailwind-rainbowkit-starter
+    - https://github.com/whitenois3/rainplate
