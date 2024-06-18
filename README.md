@@ -40,6 +40,9 @@
 - https://github.com/moviendome/solana-faucet
 - https://github.com/Phantasia-Sports/phantom-mobile-wallet-adapter
 - https://github.com/rust-master/solana-dapp-anchor.git
+
+  #### REACT NATIVE / Phantom :
+  - https://github.com/sistemaseltigre/phantom-native.git
  
 POLKADOT / SUBSTRATE :
     - https://github.com/substrate-developer-hub/substrate-front-end-template demo : https://substrate-developer-hub.github.io/substrate-front-end-template/
