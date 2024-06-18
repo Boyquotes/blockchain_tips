@@ -28,7 +28,7 @@
   - https://github.com/sashadev-sky/Rock-Paper-Scissors-Mint
 
 ### SVM :
-
+- https://github.com/moviendome/solana-faucet
 - 
  
 POLKADOT / SUBSTRATE :
