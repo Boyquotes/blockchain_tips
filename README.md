@@ -37,6 +37,7 @@
 - https://github.com/AntheChristo/SolanaTokenTransfer/ Error : WalletNotReadyError
 - https://github.com/aslamsrima/React-Rust-Solana With smart contract
 - https://github.com/dillonharless18/solana-react-ping With smart contract
+- https://github.com/kingsleycj/solana-react-dapp Error : No provider found. Install Phantom Browser extension
 
 - LAST UPDATE more than 2 year :
 - https://github.com/AdrianValladaresDiaz/react-phantom-wallet
