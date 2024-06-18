@@ -31,9 +31,9 @@
 - https://github.com/anza-xyz/wallet-adapter
 
 #### REACT / Phantom :
-- https://github.com/meetamjadsaeed/React-Phantom-Wallet-App Error and not detect phantom wallet in the list
+- https://github.com/meetamjadsaeed/React-Phantom-Wallet-App Error and not detect phantom wallet in the list 
 - https://github.com/emreyurur/phantom_wallet_connect
-- https://github.com/meetamjadsaeed/React-Phantom-Wallet-Web3
+- https://github.com/meetamjadsaeed/React-Phantom-Wallet-Web3  Error and not detect phantom wallet in the list index.tsx:6 Warning: Use the `defaultValue` or `value` props on <select> instead of setting `selected` on <option>.
 - https://github.com/AntheChristo/SolanaTokenTransfer/ Error : WalletNotReadyError
 - https://github.com/aslamsrima/React-Rust-Solana With smart contract
 - https://github.com/dillonharless18/solana-react-ping With smart contract
