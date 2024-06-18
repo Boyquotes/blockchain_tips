@@ -34,7 +34,8 @@
 - https://github.com/meetamjadsaeed/React-Phantom-Wallet-App
 - https://github.com/emreyurur/phantom_wallet_connect
 - https://github.com/meetamjadsaeed/React-Phantom-Wallet-Web3
-- https://github.com/aslamsrima/React-Rust-Solana With contract
+- https://github.com/aslamsrima/React-Rust-Solana With smart contract
+- https://github.com/dillonharless18/solana-react-ping With smart contract
 
 - LAST UPDATE more than 2 year :
 - https://github.com/AdrianValladaresDiaz/react-phantom-wallet
