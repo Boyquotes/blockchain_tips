@@ -2,7 +2,12 @@
 
 ### EVM :
 
-- RAINBOWKIT : https://github.com/rainbow-me/rainbowkit/tree/main/examples
+- RAINBOWKIT :
+      - https://www.rainbowkit.com/fr
+      - https://www.rainbowkit.com/fr/docs/introduction
+    Examples :
+      https://github.com/rainbow-me/rainbowkit/tree/main/examples
+
     - REACT : https://github.com/LeoClairet05/wagmi-rainbowkit-react-template
     - NEXT / RAINBOWKIT
         - https://github.com/scaffold-eth/scaffold-eth-2
