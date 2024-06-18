@@ -32,7 +32,12 @@
 
 #### REACT / Phantom :
 - https://github.com/meetamjadsaeed/React-Phantom-Wallet-Web3.git
+- https://github.com/meetamjadsaeed/React-Phantom-Wallet-App
+- https://github.com/emreyurur/phantom_wallet_connect
+- https://github.com/m11dedhia/phantom-wallet
 - LAST UPDATE more than 2 year :
+- https://github.com/AdrianValladaresDiaz/react-phantom-wallet
+- 
 - https://github.com/moviendome/solana-faucet
 - https://github.com/Phantasia-Sports/phantom-mobile-wallet-adapter
 - https://github.com/rust-master/solana-dapp-anchor.git
