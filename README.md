@@ -31,6 +31,8 @@
 - https://github.com/anza-xyz/wallet-adapter
 
 #### REACT / Phantom :
+- https://github.com/meetamjadsaeed/React-Phantom-Wallet-Web3.git
+- LAST UPDATE more than 2 year :
 - https://github.com/moviendome/solana-faucet
 - https://github.com/Phantasia-Sports/phantom-mobile-wallet-adapter
 - https://github.com/rust-master/solana-dapp-anchor.git
