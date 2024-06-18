@@ -33,6 +33,8 @@
 #### REACT / Phantom :
 - https://github.com/meetamjadsaeed/React-Phantom-Wallet-App
 - https://github.com/emreyurur/phantom_wallet_connect
+- https://github.com/meetamjadsaeed/React-Phantom-Wallet-Web3
+- https://github.com/aslamsrima/React-Rust-Solana With contract
 
 - LAST UPDATE more than 2 year :
 - https://github.com/AdrianValladaresDiaz/react-phantom-wallet
