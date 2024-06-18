@@ -44,7 +44,7 @@
 - https://github.com/m11dedhia/phantom-wallet
 - https://github.com/moviendome/solana-faucet
 - https://github.com/Phantasia-Sports/phantom-mobile-wallet-adapter
-- https://github.com/rust-master/solana-dapp-anchor.git
+- https://github.com/rust-master/solana-dapp-anchor.git OK but phantom not listed like connected but it is
 - https://github.com/graceful-coder/Crypto-Catness
 
   #### REACT NATIVE / Phantom :
