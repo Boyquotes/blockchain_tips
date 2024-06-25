@@ -57,7 +57,7 @@
   - https://github.com/sistemaseltigre/phantom-native.git
  
 POLKADOT / SUBSTRATE :
-    - https://github.com/substrate-developer-hub/substrate-front-end-template 
-    - demo:
-    - https://substrate-developer-hub.github.io/substrate-front-end-template/
-    - repo :  demo : https://ternoa-showcase-extension.vercel.app/
+- https://github.com/substrate-developer-hub/substrate-front-end-template
+- demo:
+- https://substrate-developer-hub.github.io/substrate-front-end-template
+- repo :  demo : https://ternoa-showcase-extension.vercel.app/
