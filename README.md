@@ -40,12 +40,13 @@
 - https://github.com/kingsleycj/solana-react-dapp Error : No provider found. Install Phantom Browser extension
 
 - LAST UPDATE more than 2 year :
+
 - https://github.com/AdrianValladaresDiaz/react-phantom-wallet
 - https://github.com/m11dedhia/phantom-wallet
-- https://github.com/moviendome/solana-faucet
-- https://github.com/Phantasia-Sports/phantom-mobile-wallet-adapter
-- https://github.com/rust-master/solana-dapp-anchor.git OK but phantom not listed like connected but it is
-- https://github.com/graceful-coder/Crypto-Catness
+-  https://github.com/moviendome/solana-faucet
+-  https://github.com/Phantasia-Sports/phantom-mobile-wallet-adapter
+-  https://github.com/rust-master/solana-dapp-anchor.git OK but phantom not listed like connected but it is
+-  https://github.com/graceful-coder/Crypto-Catness
 
   #### REACT NATIVE / Phantom :
   - https://github.com/sistemaseltigre/phantom-native.git
