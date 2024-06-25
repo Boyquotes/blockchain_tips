@@ -3,9 +3,9 @@
 ### EVM :
 
 - RAINBOWKIT :
-      - https://www.rainbowkit.com/fr
-      - https://www.rainbowkit.com/fr/docs/introduction
-      - https://www.rainbowkit.com/fr/docs/custom-wallet-list
+- https://www.rainbowkit.com/fr
+- https://www.rainbowkit.com/fr/docs/introduction
+- https://www.rainbowkit.com/fr/docs/custom-wallet-list
   
     Examples :
       https://github.com/rainbow-me/rainbowkit/tree/main/examples
