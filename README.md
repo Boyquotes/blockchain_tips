@@ -34,14 +34,11 @@
 - https://github.com/meetamjadsaeed/React-Phantom-Wallet-App Error and not detect phantom wallet in the list 
 - https://github.com/emreyurur/phantom_wallet_connect
 - https://github.com/meetamjadsaeed/React-Phantom-Wallet-Web3
-- Error and not detect phantom wallet in the list index.tsx:6 Warning: Use the defaultValue or value props on <select> instead of setting selected on <option>
-
+- Error and not detect phantom wallet in the list index.tsx:6 Warning: Use the defaultValue or value props on select instead of setting selected on option
 - https://github.com/AntheChristo/SolanaTokenTransfer/ Error : WalletNotReadyError
 - https://github.com/aslamsrima/React-Rust-Solana With smart contract
 - https://github.com/dillonharless18/solana-react-ping With smart contract
 - https://github.com/kingsleycj/solana-react-dapp Error : No provider found. Install Phantom Browser extension
-
-----
 
 - LAST UPDATE more than 2 year :
 
@@ -60,6 +57,7 @@
   - https://github.com/sistemaseltigre/phantom-native.git
  
 POLKADOT / SUBSTRATE :
-    - https://github.com/substrate-developer-hub/substrate-front-end-template demo : https://substrate-developer-hub.github.io/substrate-front-end-template/
+    - https://github.com/substrate-developer-hub/substrate-front-end-template 
+    - demo:
+    - https://substrate-developer-hub.github.io/substrate-front-end-template/
     - repo :  demo : https://ternoa-showcase-extension.vercel.app/
-    
