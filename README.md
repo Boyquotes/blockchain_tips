@@ -18,7 +18,7 @@
         - https://github.com/Pedrojok01/Next-Web3-Boilerplate
           
         - LAST UPDATE more than 2 year :
-        - https://github.com/0xverin/Nextjs-Wagmi-Template last update 2 years, this fork ihave most update : https://github.com/H-Blues/Dapp-Template
+        - https://github.com/0xverin/Nextjs-Wagmi-Template last update 2 years, this fork have most recent update : https://github.com/H-Blues/Dapp-Template
         - https://github.com/tanishqsh/nextjs-tailwind-rainbowkit-starter
         - https://github.com/whitenois3/rainplate
     - VITE / RAINBOWKIT
@@ -33,7 +33,8 @@
 #### REACT / Phantom :
 - https://github.com/meetamjadsaeed/React-Phantom-Wallet-App Error and not detect phantom wallet in the list 
 - https://github.com/emreyurur/phantom_wallet_connect
-- https://github.com/meetamjadsaeed/React-Phantom-Wallet-Web3  Error and not detect phantom wallet in the list index.tsx:6 Warning: Use the `defaultValue` or `value` props on <select> instead of setting `selected` on <option>.
+- https://github.com/meetamjadsaeed/React-Phantom-Wallet-Web3
+- Error and not detect phantom wallet in the list index.tsx:6 Warning: Use the defaultValue or value props on <select> instead of setting selected on <option>.
 
 ----
 
