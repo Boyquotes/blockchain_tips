@@ -60,4 +60,5 @@ POLKADOT / SUBSTRATE :
 - https://github.com/substrate-developer-hub/substrate-front-end-template
 - demo:
 - https://substrate-developer-hub.github.io/substrate-front-end-template
-- repo :  demo : https://ternoa-showcase-extension.vercel.app/
+- demo : https://ternoa-showcase-extension.vercel.app/
+- repo : https://github.com/Victor-Salomon/ternoa-showcase-extension
