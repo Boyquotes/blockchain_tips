@@ -33,10 +33,8 @@
 
 #### REACT / Phantom :
 - https://github.com/meetamjadsaeed/React-Phantom-Wallet-App Error "Failed to construct URL" and "Invalide public key input"
-- https://github.com/meetamjadsaeed/React-Phantom-Wallet-Web3
-- 
-- https://github.com/emreyurur/phantom_wallet_connect
-- https://github.com/meetamjadsaeed/React-Phantom-Wallet-Web3
+- https://github.com/meetamjadsaeed/React-Phantom-Wallet-Web3 Same above
+  
 - Error and not detect phantom wallet in the list index.tsx:6 Warning: Use the defaultValue or value props on select instead of setting selected on option
 - https://github.com/AntheChristo/SolanaTokenTransfer/ Error : WalletNotReadyError
 - https://github.com/aslamsrima/React-Rust-Solana With smart contract
@@ -58,6 +56,7 @@
 
   #### REACT NATIVE / Phantom :
   - https://github.com/sistemaseltigre/phantom-native.git
+  - https://github.com/emreyurur/phantom_wallet_connect
  
 POLKADOT / SUBSTRATE :
 - https://github.com/substrate-developer-hub/substrate-front-end-template
