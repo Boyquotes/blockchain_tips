@@ -43,8 +43,8 @@
 
 - LAST UPDATE more than 2 year :
 
-- https://github.com/AdrianValladaresDiaz/react-phantom-wallet
-
+- https://github.com/AdrianValladaresDiaz/react-phantom-wallet Connection wallet simple
+    https://react-phantom-wallet.vercel.app/
 - https://github.com/m11dedhia/phantom-wallet
 
 -  https://github.com/moviendome/solana-faucet
