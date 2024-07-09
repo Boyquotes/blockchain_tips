@@ -49,7 +49,7 @@
 
 -  https://github.com/moviendome/solana-faucet EXPO cli not installed now
 
--  https://github.com/Phantasia-Sports/phantom-mobile-wallet-adapter
+-  https://github.com/Phantasia-Sports/phantom-mobile-wallet-adapter juste le code TS pour se connecter
 
 -  https://github.com/rust-master/solana-dapp-anchor.git OK pas de contrat mais juste idl
 -  https://github.com/graceful-coder/Crypto-Catness
