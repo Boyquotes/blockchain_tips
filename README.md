@@ -47,7 +47,7 @@
     https://react-phantom-wallet.vercel.app/
 - https://github.com/m11dedhia/phantom-wallet
 
--  https://github.com/moviendome/solana-faucet
+-  https://github.com/moviendome/solana-faucet EXPO cli not installed now
 
 -  https://github.com/Phantasia-Sports/phantom-mobile-wallet-adapter
 
