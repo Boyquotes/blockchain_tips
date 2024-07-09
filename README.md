@@ -32,7 +32,7 @@
 - https://github.com/matrworld/solana-web-starter
 
 #### REACT / Phantom :
-- https://github.com/meetamjadsaeed/React-Phantom-Wallet-App Error and not detect phantom wallet in the list 
+- https://github.com/meetamjadsaeed/React-Phantom-Wallet-App Error "Failed to construct URL"
 - https://github.com/emreyurur/phantom_wallet_connect
 - https://github.com/meetamjadsaeed/React-Phantom-Wallet-Web3
 - Error and not detect phantom wallet in the list index.tsx:6 Warning: Use the defaultValue or value props on select instead of setting selected on option
