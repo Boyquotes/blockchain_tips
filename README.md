@@ -45,7 +45,7 @@
 
 - https://github.com/AdrianValladaresDiaz/react-phantom-wallet Connection wallet simple
     https://react-phantom-wallet.vercel.app/
-- https://github.com/m11dedhia/phantom-wallet
+- https://github.com/m11dedhia/phantom-wallet Connection wallet simple trop vieux
 
 -  https://github.com/moviendome/solana-faucet EXPO cli not installed now
 
