@@ -41,6 +41,7 @@
 - https://github.com/dillonharless18/solana-react-ping With smart contract GOOD next
 - https://github.com/kingsleycj/solana-react-dapp GOOD simple replit
 - https://github.com/GodricGryffindorK/SolanaSpin NFT gamification
+- https://github.com/cryptoloutre/solana-tools
 
 - LAST UPDATE more than 2 year :
 
