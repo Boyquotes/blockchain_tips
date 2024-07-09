@@ -37,8 +37,8 @@
   
 - Error and not detect phantom wallet in the list index.tsx:6 Warning: Use the defaultValue or value props on select instead of setting selected on option
 - https://github.com/AntheChristo/SolanaTokenTransfer/ GOOD
-- https://github.com/aslamsrima/React-Rust-Solana With smart contract GOOD next 
-- https://github.com/dillonharless18/solana-react-ping With smart contract
+- https://github.com/aslamsrima/React-Rust-Solana With smart contract GOOD next pb hydra
+- https://github.com/dillonharless18/solana-react-ping With smart contract GOOD next
 - https://github.com/kingsleycj/solana-react-dapp Error : No provider found. Install Phantom Browser extension
 
 - LAST UPDATE more than 2 year :
