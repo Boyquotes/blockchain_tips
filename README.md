@@ -52,7 +52,8 @@
 -  https://github.com/Phantasia-Sports/phantom-mobile-wallet-adapter juste le code TS pour se connecter
 
 -  https://github.com/rust-master/solana-dapp-anchor.git OK pas de contrat mais juste idl
--  https://github.com/graceful-coder/Crypto-Catness
+-  https://github.com/graceful-coder/Crypto-Catness https://github.com/graceful-coder/Crypto-Catness
+  - https://replit.com/@graceful-coder/Crypto-Catness#src/App.jsx
 
   #### REACT NATIVE / Phantom :
   - https://github.com/sistemaseltigre/phantom-native.git
