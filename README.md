@@ -40,6 +40,7 @@
 - https://github.com/aslamsrima/React-Rust-Solana With smart contract GOOD next pb hydra
 - https://github.com/dillonharless18/solana-react-ping With smart contract GOOD next
 - https://github.com/kingsleycj/solana-react-dapp GOOD simple replit
+- https://github.com/GodricGryffindorK/SolanaSpin NFT gamification
 
 - LAST UPDATE more than 2 year :
 
