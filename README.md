@@ -42,6 +42,8 @@
 - https://github.com/kingsleycj/solana-react-dapp GOOD simple replit
 - https://github.com/GodricGryffindorK/SolanaSpin NFT gamification
 - https://github.com/cryptoloutre/solana-tools
+- https://github.com/ribbinpo/solana-next-poc
+- https://github.com/solana-developers/CRUD-dApp
 
 - LAST UPDATE more than 2 year :
 
